@@ -1,0 +1,1 @@
+web: hask-heroku-exe
